@@ -1,0 +1,63 @@
+#logo{
+  height: 150px;
+  margin-left: 5%;
+}
+.left{
+  display: inline-block;
+}
+.right{
+  display: inline-block;
+  margin-left: 40%;
+}
+#bannerImg{
+  width: 100%;
+  overflow: hidden;
+  height: 300px;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+h1{
+  font-size: 30px;
+  font-family: Verdana;
+  text-transform: uppercase;
+}
+h2{
+  font-size: 20px;
+  font-family: Verdana;
+}
+h3{
+  font-size: 18px;
+  font-family: Verdana;
+  text-transform: uppercase;
+  text-align: center;
+}
+#footer{
+  height: 100px;
+  width: 100%;
+  background-color: gray;
+}
+.footerText{
+  color: white;
+  font-family: Verdana;
+}
+.column{
+  display: inline-block;
+  width: 26%;
+  text-align: center;
+}
+.coImg{
+  height: 200px;
+  width: 100%;
+}
+#images{
+  margin: 0 auto;
+  display: block;
+}
+hr{
+  background-color: black;
+  height: 3px;
+}
+.top{
+  background-color: black;
+  height: 1px;
+}
